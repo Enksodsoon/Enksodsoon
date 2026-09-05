@@ -1,12 +1,24 @@
-# Enk
+<h1 align="center">Enk</h1>
 
-**Medical doctor building useful software and exploring new ideas.**
+<p align="center">
+  <strong>Medical doctor building useful software and exploring new ideas.</strong><br>
+  Bangkok, Thailand · Software · AI &amp; data · Education · Research · Creative technology
+</p>
+
+<p align="center">
+  <a href="#tools--technologies">Tools</a> ·
+  <a href="#github-at-a-glance">GitHub activity</a> ·
+  <a href="#selected-projects">Projects</a> ·
+  <a href="#how-i-think-about-building">Approach</a> ·
+  <a href="#questions-and-collaboration">Collaboration</a>
+</p>
 
 I'm Enk, a medical doctor based in Bangkok, Thailand. I build tools to make complex information easier to understand, reduce repetitive work, and turn ideas into working projects.
 
-Medicine shapes how I think, but not everything I build is medical. My interests span software, AI, data, education, automation, and interactive applications. I enjoy learning across disciplines and finding practical uses for what I learn.
+Medicine shapes how I think, but not everything I build is medical. My interests span software, AI, data, education, automation, and interactive applications.
 
-[About me](#about-me) · [Interests](#what-im-interested-in) · [Projects](#selected-projects) · [Approach](#how-i-approach-projects) · [Collaboration](#questions-and-collaboration)
+<details>
+<summary><strong>More about me and my interests</strong></summary>
 
 ## About me
 
@@ -28,7 +40,104 @@ I'm continuing to develop my skills in programming, AI, data analysis, and softw
 
 Healthcare is an important application of these interests, not their only destination.
 
+</details>
+
+## Tools & technologies
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=dark&amp;perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=light&amp;perline=8">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=light&amp;perline=8" alt="Python, TypeScript, JavaScript, React, FastAPI, Three.js, Docker, and GitHub Actions" width="460">
+</picture>
+</p>
+
+<p align="center"><sub>Python · TypeScript · JavaScript · React · FastAPI · Three.js · Docker · GitHub Actions</sub></p>
+
+Tools used across my projects—not ratings of expertise. I choose tools to fit the problem and continue learning as the work develops.
+
+<details>
+<summary><strong>Where these tools fit</strong></summary>
+
+| Area | Examples from my projects |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript |
+| Web applications and APIs | React, FastAPI |
+| Interactive graphics | Three.js, OpenSeadragon |
+| Packaging and automation | Docker, GitHub Actions |
+| Testing and evaluation | Automated tests, reproducible experiments, documented acceptance criteria |
+
+This is a view of the tools used in these repositories, not an exhaustive skills list or a claim of equal expertise in every technology.
+
+</details>
+
+## GitHub at a glance
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Enksodsoon&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=true&amp;card_width=420&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Enksodsoon&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=true&amp;card_width=420&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api?username=Enksodsoon&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=true&amp;card_width=420&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="GitHub activity summary for Enksodsoon, generated from public data" width="390">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Enksodsoon&amp;layout=donut&amp;langs_count=5&amp;card_width=420&amp;disable_animations=true&amp;custom_title=Languages%20in%20public%20repos&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Enksodsoon&amp;layout=donut&amp;langs_count=5&amp;card_width=420&amp;disable_animations=true&amp;custom_title=Languages%20in%20public%20repos&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Enksodsoon&amp;layout=donut&amp;langs_count=5&amp;card_width=420&amp;disable_animations=true&amp;custom_title=Languages%20in%20public%20repos&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="Donut chart of language distribution in Enksodsoon public repositories; not a proficiency score" width="390">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=0d1117&amp;color=9da5b4&amp;line=58a6ff&amp;point=c9d1d9&amp;area_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=ffffff&amp;color=59636e&amp;line=0969da&amp;point=0969da&amp;area_color=0969da">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=ffffff&amp;color=59636e&amp;line=0969da&amp;point=0969da&amp;area_color=0969da" alt="Daily GitHub contribution activity for Enksodsoon over the last 31 days" width="800">
+</picture>
+</p>
+
+<sub>Provider-reported activity and public-repository summaries. Language proportions describe repository code, not proficiency. These widgets are cached and may differ from GitHub's own totals.</sub>
+
 ## Selected projects
+
+Practical applications, information workflows, creative experiments, and research.
+
+<p align="center">
+<a href="https://github.com/Enksodsoon/PathLab-Viewer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=PathLab-Viewer&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=PathLab-Viewer&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=PathLab-Viewer&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="PathLab Viewer - digital slide viewing and sharing; healthcare and education" width="390">
+</picture>
+</a>
+<a href="https://github.com/Enksodsoon/general-pathology-research-digest">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=general-pathology-research-digest&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=general-pathology-research-digest&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=general-pathology-research-digest&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="Research Digest - literature discovery and event scouting; information and automation" width="390">
+</picture>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Enksodsoon/Duckrace">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=Duckrace&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=Duckrace&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=Duckrace&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="Duck Race Randomizer - interactive 3D browser graphics; creative software" width="390">
+</picture>
+</a>
+<a href="https://github.com/Enksodsoon/DENSER-WSI">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=DENSER-WSI&amp;description_lines_count=2&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=DENSER-WSI&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Enksodsoon&amp;repo=DENSER-WSI&amp;description_lines_count=2&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328&amp;icon_color=0969da&amp;border_color=d1d9e0" alt="DENSER-WSI - whole-slide image compression experiments; research and evaluation" width="390">
+</picture>
+</a>
+</p>
+
+**PathLab's desktop companion:** [Forge](https://github.com/Enksodsoon/PathLab-Forge) prepares supported slide datasets locally.
+
+<details>
+<summary><strong>Project overviews, useful starting points, and limitations</strong></summary>
 
 These projects show different sides of my work: practical applications, information workflows, creative experiments, and research.
 
@@ -68,6 +177,28 @@ A research framework for investigating whole-slide image compression. It uses ma
 
 Each repository is the source of truth for setup, intended use, licensing, and limitations. A public repository or passing automated test does not, by itself, establish production or clinical readiness.
 
+</details>
+
+[**Explore all public repositories →**](https://github.com/Enksodsoon?tab=repositories)
+
+## How I think about building
+
+```mermaid
+flowchart LR
+    P["Understand a real problem"] --> B["Build and explore"]
+    B --> S["Software and automation"]
+    B --> A["AI and data"]
+    B --> L["Learning and interaction"]
+    S --> T["Test, learn, and improve"]
+    A --> T
+    L --> T
+```
+
+**Problem first. Clear interfaces. Practical resource use. Evidence and limitations visible.**
+
+<details>
+<summary><strong>My approach and what I'm learning</strong></summary>
+
 ## How I approach projects
 
 **Start with the problem, not the technology.** I want to understand who will use a tool, what is difficult today, and what an improvement would look like. A simpler workflow can be more valuable than a longer feature list.
@@ -76,32 +207,20 @@ Each repository is the source of truth for setup, intended use, licensing, and l
 
 **Keep evidence and limitations visible.** I aim to make assumptions explicit, test important behavior, respect privacy, and distinguish working features from plans. For research and AI, I care about fair comparisons, reproducibility, and knowing when human review is still needed.
 
-## Tools used across my projects
-
-I choose tools to fit the problem and continue learning as the work develops.
-
-<details>
-<summary><strong>Languages, applications, and development tools</strong></summary>
-
-| Area | Examples from my projects |
-| --- | --- |
-| Languages | Python, TypeScript, JavaScript |
-| Web applications and APIs | React, FastAPI |
-| Interactive graphics | Three.js, OpenSeadragon |
-| Packaging and automation | Docker, GitHub Actions |
-| Testing and evaluation | Automated tests, reproducible experiments, documented acceptance criteria |
-
-This is a view of the tools used in these repositories, not an exhaustive skills list or a claim of equal expertise in every technology.
-
-</details>
-
 ## What I'm learning and exploring
 
 I'm interested in making the whole path from idea to useful application more understandable: organizing data, designing software, evaluating models, and maintaining a system after the first prototype works.
 
 Questions I keep coming back to include how to make AI useful without obscuring its limitations, how to design interactive learning experiences, and how to build capable tools with modest infrastructure. These are directions for learning and future work, not promises about features already available.
 
+</details>
+
 ## Questions and collaboration
+
+I welcome practical ideas, thoughtful feedback, and perspectives from different disciplines. For project-specific questions, start with the relevant repository's README and issue tracker.
+
+<details>
+<summary><strong>Using a project, contributing, or exploring a research idea</strong></summary>
 
 I welcome thoughtful feedback, practical problems, and perspectives from people with different backgrounds. Useful contributions can include a clearer explanation, a reproducible bug report, a usability observation, or a better way to test an idea—not only code.
 
@@ -112,3 +231,20 @@ I welcome thoughtful feedback, practical problems, and perspectives from people 
 **Exploring a research idea?** Make the question, assumptions, comparison, and evaluation method clear. I'm interested in ideas that connect disciplines and produce something others can understand, evaluate, or use.
 
 Please keep personal data, patient information, credentials, and sensitive security details out of public issues. Use synthetic examples where possible and follow the repository's private reporting guidance for security concerns.
+
+</details>
+
+<sub>Please keep patient information, personal data, credentials, and sensitive security details out of public issues.</sub>
+
+---
+
+<details>
+<summary><strong>About the visual widgets</strong></summary>
+
+Icons: [Skill Icons](https://github.com/tandpfun/skill-icons). Stats, language charts, and repository cards: [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended). Contribution graph: [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph). The workflow diagram uses GitHub's native Mermaid support.
+
+Light and dark image variants are provided. These external services receive the public username or public repository names in the image URLs; no personal access token is embedded or required by this README.
+
+Widgets can be cached, delayed, rate-limited, or temporarily unavailable. Repository links and expandable descriptions remain available independently. Activity counts are not a measure of software quality, and language proportions are not skill scores. Repository documentation defines current scope, readiness, licensing, and limitations.
+
+</details>
