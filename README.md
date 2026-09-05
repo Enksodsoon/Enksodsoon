@@ -46,9 +46,9 @@ Healthcare is an important application of these interests, not their only destin
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=dark&amp;perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=light&amp;perline=8">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,threejs,docker,githubactions&amp;theme=light&amp;perline=8" alt="Python, TypeScript, JavaScript, React, FastAPI, Three.js, Docker, and GitHub Actions" width="460">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cfastapi%2Cthreejs%2Cdocker%2Cgithubactions&amp;theme=dark&amp;perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cfastapi%2Cthreejs%2Cdocker%2Cgithubactions&amp;theme=light&amp;perline=8">
+  <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cfastapi%2Cthreejs%2Cdocker%2Cgithubactions&amp;theme=light&amp;perline=8" alt="Python, TypeScript, JavaScript, React, FastAPI, Three.js, Docker, and GitHub Actions" width="460">
 </picture>
 </p>
 
@@ -88,9 +88,9 @@ This is a view of the tools used in these repositories, not an exhaustive skills
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=0d1117&amp;color=9da5b4&amp;line=58a6ff&amp;point=c9d1d9&amp;area_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=ffffff&amp;color=59636e&amp;line=0969da&amp;point=0969da&amp;area_color=0969da">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enksodsoon&amp;days=31&amp;height=280&amp;area=true&amp;hide_border=true&amp;radius=8&amp;custom_title=Contribution%20activity%20-%20last%2031%20days&amp;bg_color=ffffff&amp;color=59636e&amp;line=0969da&amp;point=0969da&amp;area_color=0969da" alt="Daily GitHub contribution activity for Enksodsoon over the last 31 days" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enksodsoon&amp;theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enksodsoon&amp;theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enksodsoon&amp;theme=github" alt="Public GitHub contribution history for Enksodsoon over the period shown by the chart" width="800">
 </picture>
 </p>
 
@@ -183,16 +183,13 @@ Each repository is the source of truth for setup, intended use, licensing, and l
 
 ## How I think about building
 
-```mermaid
-flowchart LR
-    P["Understand a real problem"] --> B["Build and explore"]
-    B --> S["Software and automation"]
-    B --> A["AI and data"]
-    B --> L["Learning and interaction"]
-    S --> T["Test, learn, and improve"]
-    A --> T
-    L --> T
-```
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/workflow-light.svg">
+  <img src="./assets/workflow-light.svg" alt="Development cycle: understand a real problem, build a solution, test assumptions, and improve with feedback" width="760">
+</picture>
+</p>
 
 **Problem first. Clear interfaces. Practical resource use. Evidence and limitations visible.**
 
@@ -241,7 +238,7 @@ Please keep personal data, patient information, credentials, and sensitive secur
 <details>
 <summary><strong>About the visual widgets</strong></summary>
 
-Icons: [Skill Icons](https://github.com/tandpfun/skill-icons). Stats, language charts, and repository cards: [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended). Contribution graph: [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph). The workflow diagram uses GitHub's native Mermaid support.
+Icons: [Skill Icons](https://github.com/tandpfun/skill-icons). Stats, language charts, and repository cards: [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended). Contribution history: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). The workflow diagram is an original, static SVG stored in this repository; it makes no network requests of its own.
 
 Light and dark image variants are provided. These external services receive the public username or public repository names in the image URLs; no personal access token is embedded or required by this README.
 
